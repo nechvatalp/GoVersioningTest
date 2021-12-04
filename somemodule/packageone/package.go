@@ -3,5 +3,5 @@ package packageone
 import "fmt"
 
 func HelloPackageOne() {
-	fmt.Println("Hello From Package one")
+	fmt.Println("Hello From Improved Package one")
 }
