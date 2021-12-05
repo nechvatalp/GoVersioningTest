@@ -9,3 +9,7 @@ func HelloPackageOne() {
 func ByPackageOne() {
 	fmt.Println("Bye From Package one")
 }
+
+func ThanksPackageOne() {
+	fmt.Println("Thanks From Package one")
+}
